@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['read_5ferror',['READ_ERROR',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#af7136994a4e4b48f8d20db20ab6a756d',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['registerbuslistener',['RegisterBusListener',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#ab1c9b96c66b2c21c2cd3ade2e2538707',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['registerbusobject',['RegisterBusObject',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#ad231c7e1275c16b4365fcbaae41171d2',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['registerkeystorelistener',['RegisterKeyStoreListener',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#aae489c56f78bd86c98b1bfcf27ff1066',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['registersignalhandler',['RegisterSignalHandler',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#a1a556a1b91e9e251793a28d137d01584',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['releasename',['ReleaseName',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#a70eecb7d8584873b9bdedfa12fb12551',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['reloadkeystore',['ReloadKeyStore',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#afa205bf210c8fac1f751afceae6abcc9',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['removematch',['RemoveMatch',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#af3f45a239aea432842c925d7abccc03a',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['rendezvous_5fserver_5fdeactivated_5fuser',['RENDEZVOUS_SERVER_DEACTIVATED_USER',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#a992c2d3c122d39f08d1efedeea2d1d44',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5ferr401_5funauthorized_5frequest',['RENDEZVOUS_SERVER_ERR401_UNAUTHORIZED_REQUEST',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#ae806ba7d8d42316b8a618010d94050a7',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5ferr500_5finternal_5ferror',['RENDEZVOUS_SERVER_ERR500_INTERNAL_ERROR',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#a774bac705c1c1ce29de160b424f43625',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5ferr503_5fstatus_5funavailable',['RENDEZVOUS_SERVER_ERR503_STATUS_UNAVAILABLE',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#a1bb4f0d47538d65d8a97c7081128b5b7',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5froot_5fcertificate_5funinitialized',['RENDEZVOUS_SERVER_ROOT_CERTIFICATE_UNINITIALIZED',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#ae63479148637b5660a36a7f391cf08fe',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5funknown_5fuser',['RENDEZVOUS_SERVER_UNKNOWN_USER',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#a9cde5411a8822e163f8f50c062c1002f',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['rendezvous_5fserver_5funrecoverable_5ferror',['RENDEZVOUS_SERVER_UNRECOVERABLE_ERROR',['../class_all_joyn_unity_1_1_all_joyn_1_1_q_status.html#a91bcd50d0e746ae8a1c363916e014897',1,'AllJoynUnity::AllJoyn::QStatus']]],
+  ['requestcredentials',['RequestCredentials',['../class_all_joyn_unity_1_1_all_joyn_1_1_auth_listener.html#ab2f5c190e190a791072b15126abe07dc',1,'AllJoynUnity::AllJoyn::AuthListener']]],
+  ['requestname',['RequestName',['../class_all_joyn_unity_1_1_all_joyn_1_1_bus_attachment.html#a2862d22af5a16b656bde9c5a847ab59e',1,'AllJoynUnity::AllJoyn::BusAttachment']]],
+  ['returnsignature',['ReturnSignature',['../class_all_joyn_unity_1_1_all_joyn_1_1_interface_description_1_1_member.html#a143163bd1019c46e2110b51095dd9d75',1,'AllJoynUnity::AllJoyn::InterfaceDescription::Member']]]
+];

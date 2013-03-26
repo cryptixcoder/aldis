@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="bottom"
+    android:background="#abd3e2"
+    android:orientation="vertical"
+    android:paddingLeft="3dp"
+    android:paddingRight="3dp"
+    android:paddingTop="5dp" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal" >
+
+        <EditText
+            android:id="@+id/useMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+            android:ems="10"
+            android:hint="Enter pulse here" >
+        </EditText>
+    </LinearLayout>
+
+    <requestFocus />
+
+    <ListView
+        android:id="@+id/useHistoryList"
+        android:layout_width="match_parent"
+        android:layout_height="262dp"
+        android:layout_marginTop="0dp"
+        android:layout_weight="0.96"
+        android:background="#abd3e2"
+        android:divider="#abd3e2"
+        android:dividerHeight="2dp"
+        android:fadingEdgeLength="0dp"
+        android:paddingLeft="0dp"
+        android:paddingRight="0dp"
+        android:paddingTop="0dp"
+        android:scrollbarStyle="outsideInset"
+        android:transcriptMode="alwaysScroll" 
+        android:isScrollContainer="false">
+    </ListView>
+
+    
+</LinearLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#abd3e2"
+    android:gravity="top|center"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="5dp" >
+    
+    <TextView
+        android:id="@+id/SettingsLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Settings"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:ems="10"
+        android:hint="Username" >
+    </EditText>
+
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+     <Button
+         android:id="@+id/hostStart"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Start Channel" />
+
+     <Button
+         android:id="@+id/useJoin"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Join Channel" />
+
+     <Button
+         android:id="@+id/useLeave"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Leave Channel" />
+
+     <Button
+         android:id="@+id/hostQuit"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Quit Application" />
+
+     <Button
+         android:id="@+id/deleteMessages"
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content"
+         android:text="Delete Messages" />
+
+
+    </LinearLayout>
+    
+</LinearLayout>

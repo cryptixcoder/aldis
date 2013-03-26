@@ -1,5 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_bus_object_8h.html" title="This file defines the base class for message bus objects that are implemented and registered locally..." alt="" coords="5,86,99,117"/>
-<area shape="rect" id="node7" href="$_proxy_bus_object_8h.html" title="This file defines the class ProxyBusObject." alt="" coords="123,86,251,117"/>
-<area shape="rect" id="node5" href="$_bus_attachment_8h.html" title="is the top&#45;level object responsible for connecting to a message bus." alt="" coords="57,166,180,197"/>
-</map>

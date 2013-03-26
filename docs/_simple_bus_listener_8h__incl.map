@@ -1,6 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_session_8h.html" title="AllJoyn session related data types." alt="" coords="5,86,125,117"/>
-<area shape="rect" id="node10" href="$_bus_listener_8h.html" title="BusListener is an abstract base class (interface) implemented by users of the AllJoyn API in order to..." alt="" coords="149,86,291,117"/>
-<area shape="rect" id="node5" href="$platform_8h.html" title="This file just wraps including actual OS and toolchain specific header files depding on the OS group ..." alt="" coords="71,246,175,277"/>
-<area shape="rect" id="node7" href="$_transport_mask_8h.html" title="Transport type definitions." alt="" coords="103,166,260,197"/>
-</map>

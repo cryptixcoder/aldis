@@ -1,4 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$platform_8h.html" title="This file just wraps including actual OS and toolchain specific header files depding on the OS group ..." alt="" coords="63,166,167,197"/>
-<area shape="rect" id="node9" href="$atomic_8h.html" title="Toolchain specific wrapper for atomic.h." alt="" coords="198,86,294,117"/>
-</map>

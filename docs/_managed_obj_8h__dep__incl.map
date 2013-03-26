@@ -1,7 +1,0 @@
-<map id="G" name="G">
-<area shape="rect" id="node3" href="$_message_8h.html" title="This file defines a class for parsing and generating message bus messages." alt="" coords="251,86,336,117"/>
-<area shape="rect" id="node5" href="$_auth_listener_8h.html" title="This file defines the AuthListener class that provides the interface between authentication mechanism..." alt="" coords="5,166,112,197"/>
-<area shape="rect" id="node7" href="$_interface_description_8h.html" title="This file defines types for statically describing a message bus interface." alt="" coords="136,166,285,197"/>
-<area shape="rect" id="node9" href="$_message_receiver_8h.html" title="MessageReceiver is a base class implemented by any class which wishes to receive AllJoyn messages..." alt="" coords="309,166,445,197"/>
-<area shape="rect" id="node11" href="$_message_sink_8h.html" title="Abstract interface implemented by objects that wish to consume Message Bus messages." alt="" coords="469,166,581,197"/>
-</map>
